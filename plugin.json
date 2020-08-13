@@ -1,0 +1,15 @@
+{
+    "type": "ecmascript",
+    "apiversion": 2,
+    "showtimeVersion": "5",
+    "file": "index.js",
+    "id": "yummyanime",
+    "title": "yummyanime",
+    "version": "0.0.1",
+    "author": "Buksa",
+    "icon": "logo.png",
+    "category": "video",
+    "synopsis": "yummyanime plugin",
+    "description": "yummyanime plugin",
+    "downloadURL": ""
+}
